@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-Software Engineer with 6+ years of experience building enterprise applications using C#, .NET, and SQL Server. Recently expanding my expertise with NestJS, TypeScript, PostgreSQL, and Docker, while developing modern backend applications.
+Software Engineer with 6+ years of experience building enterprise applications using C# (.NET). Recently expanding my expertise with NestJS, TypeScript, PostgreSQL, and Docker, while developing modern backend applications.
 
 ## 💻 Tech Stack
 
