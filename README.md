@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**JonathanR10/JonathanR10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 6+ years of experience building enterprise applications using C#, .NET, and SQL Server. Recently expanding my expertise with NestJS, TypeScript, PostgreSQL, and Docker, while developing modern backend applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- C#
+- TypeScript
+- SQL
+- Python
+
+### Backend
+- NestJS
+- Entity Framework
+- TypeORM
+
+### Databases
+- SQL Server
+- PostgreSQL
+- MongoDb
+
+### Tools
+- Git
+- Perforce
+- Docker
+- Visual Studio
+- VS Code
+- GitHub
+- Azure DevOps
+
+## 🚀 Current Focus
+
+- Backend Architecture
+- REST APIs
+- Clean Architecture
+- Microservices
+
+## 📌 Featured Projects
+
+- 🎟 BoletoClick : Events Management Platform 
+  - NestJS
+  - PostgreSQL
+  - TypeORM
+  - Brevo Email Integration
+  - Stripe Payments
+  - QR Ticket Generation
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jonathan-roberto-dominguez-robles
